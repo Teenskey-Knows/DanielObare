@@ -1,0 +1,104 @@
+*{font-family: Nunito;
+    
+}
+
+
+.Moringa{color: #EC4067;
+
+}
+.head {
+    margin-left: 800px;
+    
+}
+.content1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height:300px;
+}
+.Padding {border: 300px;
+    padding-left: 300px;
+    margin-left: 300px;
+}
+.second {
+    color: #EC4067;
+}
+.button1 {background-color: #EC4067;
+    color: white;
+
+}
+.button2 {
+    background-color: antiquewhite;
+    border: 10px color #EC4067;
+    color: #EC4067;
+}
+.piccontent {display: flex;
+    flex-direction: row;
+    align-items: center;
+    height:300px;
+
+}
+.pad {
+    border-right: 20px;
+    padding-right: 100px;
+}
+.main2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height:300px;
+}
+.main3 { margin-left: 100px;
+    
+    padding-left: 100px;
+}
+.content4 {
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height:300px;
+}
+.padd {
+    margin-right: 100px;
+}
+#size {font-weight: 200;
+    font-size: small;
+
+}
+.content10 {
+    display: flex ;
+    flex-direction: row;
+    
+}
+*{
+    align-self: auto;
+}
+.oneline {
+    display: flex;
+    flex-direction: row;
+}
+.another {
+    display: flex;
+    flex-direction: row;
+    
+}
+.final {
+    border: solid rgb(237, 243, 245);
+    background-color: rgb(237, 243, 245);
+    padding: auto;
+
+}
+#align {
+    text-align: center;
+}
+.tara {
+    margin-left: 400px;
+    border: 30px;
+}
+#button3 {
+    background-color: #EC4067;
+}
+#color {
+    color: #EC4067;
+}
